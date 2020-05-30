@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6B0A40EE-98C5-4F13-A98A-DA058667D383"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CD43818-2E68-4685-9254-43B861703527"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/App/Controllers/PetController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "deletePet(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CD43818-2E68-4685-9254-43B861703527 - c6bcf822793543fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "App.PetController.deletePet(Vapor.Request) throws -&gt; NIO.EventLoopFuture&lt;NIOHTTP1.HTTPResponseStatus&gt;"
+                  moduleName = "App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/SwiftForServer/Medium/CRUDOperations/Sources/App/Controllers/PetController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "7CD43818-2E68-4685-9254-43B861703527 - 6678db54ff68b2a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (App.Pet) -&gt; NIO.EventLoopFuture&lt;()&gt; in App.PetController.deletePet(Vapor.Request) throws -&gt; NIO.EventLoopFuture&lt;NIOHTTP1.HTTPResponseStatus&gt;"
+                  moduleName = "App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/SwiftForServer/Medium/CRUDOperations/Sources/App/Controllers/PetController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

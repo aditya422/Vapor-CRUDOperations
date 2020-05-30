@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/SwiftForServer/Medium/CRUDOperations/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
